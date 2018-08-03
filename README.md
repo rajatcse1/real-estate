@@ -99,3 +99,23 @@
 -   Tenant Portal
 -   Vacancy Tracking
 -   Website Management
+
+# Investment Management
+-   Accounting Management
+-   Benchmarking
+-   Bonds
+-   Client Management
+-   Commodities
+-   Compliance Management
+-   Equities
+-   Fee Management
+-   Fund Management
+-   Futures
+-   Payroll & Commissions
+-   Performance Metrics
+-   Portfolio Management
+-   Risk Management
+-   Stocks
+
+# Reference
+- https://youtu.be/qgS3ktp2eq0
