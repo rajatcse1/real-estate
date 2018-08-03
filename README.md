@@ -121,6 +121,8 @@
 - https://youtu.be/qgS3ktp2eq0
 
 # Deployment
+- https://calculator.s3.amazonaws.com/index.html
+
 | Service | Details |
 |--|--|
 |Amazon EC2|Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale computing easier for developers. Amazon Elastic Block Store (EBS) provides persistent storage to Amazon EC2 instances.|
